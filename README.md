@@ -3,7 +3,7 @@
 
 Access data frame with scripts from number 3 to 9, and field with scripts from number 10 to 16. Repeat number 10 to 16 for all the data fields.  
 
-### 1. insert libraries
+*1. insert libraries*
 %matplotlib inline<br />
 import numpy as np<br />
 import pandas as pd<br />
