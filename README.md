@@ -18,7 +18,7 @@ df<br /><br />
 **3. data frame for column names, non-null row counts, and data types.**<br />
 df.info()<br /><br />
 
-**4. describe only numeric columns for count, mean, standard deviation, maximum, minimum, and percentile. this statistic analysis is meaningless for non-aggregate data. **<br />
+**4. describe only numeric columns for count, mean, standard deviation, maximum, minimum, and percentile. this statistic analysis is meaningless for non-aggregate data.**<br />
 df.describe(include=[np.number])<br /><br />
 
 **5. describe only string columns. "unique" is the number of the unique data values. "top" is for the most used data value. "freq" is to count for the most frequently used value.** <br />
