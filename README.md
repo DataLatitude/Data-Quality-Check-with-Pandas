@@ -1,7 +1,7 @@
 # Data Quality Check with Pandas
 **Conducting data quality check with Pandas, NumPy, Matplotlib, and Seaborn for completeness and value inputs**
 
-Access data frame with scripts from number 3 to 9, and field with scripts from number 10 to 16. Repeat number 10 to 16 for all the data fields.  
+Access data frame with scripts from number 3 to 9, and field with scripts from number 10 to 16. Repeat number 10 to 16 for all the data fields. Tested and worked with Anaconda Jupyer Notebook.   
 
 **1. insert libraries**<br />
 %matplotlib inline<br />
