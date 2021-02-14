@@ -1,7 +1,7 @@
 # Data Quality Check with Pandas
 ### Conducting data quality check with Pandas, NumPy, Matplotlib, and Seaborn for completeness and value inputs
 
-Access data frame with scripts from number 3 to 9, and field with scripts from number 10 to 16  
+Access data frame with scripts from number 3 to 9, and field with scripts from number 10 to 16. Repeat number 10 to 16 for all the data fields.  
 
 ### 1. insert libraries
 %matplotlib inline<br />
@@ -10,7 +10,7 @@ import pandas as pd<br />
 import matplotlib.pyplot as plt<br />
 import seaborn as sns<br /><br />
 
-### 2. read file
+### 2. read a csv file
 csvfile = 'C:/YourDrive/Sample.csv'<br />
 df = pd.read_csv(csvfile)<br />
 df<br /><br />
