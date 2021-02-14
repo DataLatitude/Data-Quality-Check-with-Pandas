@@ -4,8 +4,8 @@
 Access data frame with scripts from number 3 to 9, and field with scripts from number 10 to 16  
 
 ### 1. insert libraries
-%matplotlib inline
-import numpy as np
+%matplotlib inline <br />
+import numpy as np <br />
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
